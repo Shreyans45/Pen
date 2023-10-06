@@ -1,4 +1,4 @@
-import request
+import requests
 
 ZEROBOUNCE_API_KEY = ""
 
